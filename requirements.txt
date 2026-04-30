@@ -9,3 +9,4 @@ bleach
 imbalanced-learn
 gunicorn
 python-dotenv
+matplotlib
