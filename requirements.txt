@@ -10,3 +10,4 @@ imbalanced-learn
 gunicorn
 python-dotenv
 matplotlib
+seaborn
